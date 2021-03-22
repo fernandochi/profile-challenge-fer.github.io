@@ -32,7 +32,7 @@ This project was made with only css and html to create a card to a user, and sho
 ### Links
 
 - Solution URL: [Code](https://github.com/fernandochi/profile-challenge-fer.github.io)
-- Live Site URL: [Live site](https://profile-challeng-fer.github.io.)
+- Live Site URL: [Live site](https://fernandochi.github.io/profile-challenge-fer.github.io/)
 
 ## My process
 
